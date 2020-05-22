@@ -1,4 +1,4 @@
-# OptoElectronica - FIUBA
+# Optoelectrónica - FIUBA
 
 Codigos MATLAB de TP1 - HAZ LASER
 
